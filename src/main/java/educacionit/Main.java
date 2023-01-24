@@ -28,6 +28,7 @@ public class Main {
 		
 		/*
 		 * esto no va a funcionar
+		 * sigue sin funcionar
 		 */
 		
 		Tecnologia tecnologia = new Tecnologia(1,"Java");
