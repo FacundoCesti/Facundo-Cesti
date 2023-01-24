@@ -26,6 +26,10 @@ public class Main {
 		Update update = new Update();
 		Delete delete = new Delete();
 		
+		/*
+		 * esto no va a funcionar
+		 */
+		
 		Tecnologia tecnologia = new Tecnologia(1,"Java");
 		Curso curso = new Curso(1,"Bootcamp Java Developer",1);
 		Profesor profesor = new Profesor(1,"Mario");
